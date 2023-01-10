@@ -21,8 +21,14 @@ Here are some ideas to get you started:
 <p>
 🔭 I’m currently working on Speech Generation with Generative Modelling <br/> 
 💬 Ask me about: Python, Deep Learning, Machine Learning and Data Science <br/>
-📫 Reach me or read my blog at: www.shivammehta.me <br/>
+📫 Reach me or read my blog at: https://shivammehta25.github.io/ <br/>
+💬 Open for collaborations and interesting projects!
 </p>
+
+My recent works:
+
+⚡ OverFlow: https://shivammehta25.github.io/OverFlow <br>
+⚡ Neural HMM TTS: https://shivammehta25.github.io/Neural-HMM <br>
 
 
 ## GitHub Stats:
