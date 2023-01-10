@@ -1,5 +1,5 @@
 <!--
-**shivammehta007/shivammehta007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shivammehta25/shivammehta25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Shivam Mehta</h1>
 
-<a href="https://www.kth.se/profile/smehta/"><h4 align="center">I am a Researcher in Department of Speech Music and Hearing at KTH Royal Institute of Technology!</h4> </a>
+<h4 align="center"> <a href="https://www.kth.se/profile/smehta/">I am a Researcher in Department of Speech Music and Hearing at KTH Royal Institute of Technology! </a></h4> 
 <hr>
 <p>
-🔭 I’m currently working on Speech Generation with Generative Modelling: https://www.kth.se/profile/smehta/ <br/> 
+🔭 I’m currently working on Speech Generation with Generative Modelling<br/> 
 💬 Ask me about: Python, Deep Learning, Machine Learning and Data Science <br/>
 📫 Reach me or read my blog at: https://shivammehta25.github.io/ <br/>
 💬 Open for collaborations and interesting projects!
