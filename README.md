@@ -33,7 +33,7 @@ My recent works:
 
 ## GitHub Stats:
 
-<img  src="https://github-readme-stats.vercel.app/api?username=shivammehta007&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=shivammehta25&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shivammehta007&hide_border=true&theme=tokyonight" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shivammehta25&hide_border=true&theme=tokyonight" width="45%" >
 <br />
