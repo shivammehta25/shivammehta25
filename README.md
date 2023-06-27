@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 💬 Open for collaborations and interesting projects!
 </p>
 
-My recent works:
+My recent works: <br>
 ⚡ Diff-TTSG: https://shivammehta25.github.io/Diff-TTSG/ <br>
 ⚡ OverFlow: https://shivammehta25.github.io/OverFlow <br>
 ⚡ Neural HMM TTS: https://shivammehta25.github.io/Neural-HMM <br>
