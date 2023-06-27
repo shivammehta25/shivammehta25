@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 My recent works:
-⚡ Diff-TTSG: https://shivammehta25.github.io/Diff-TTSG/
+⚡ Diff-TTSG: https://shivammehta25.github.io/Diff-TTSG/ <br>
 ⚡ OverFlow: https://shivammehta25.github.io/OverFlow <br>
 ⚡ Neural HMM TTS: https://shivammehta25.github.io/Neural-HMM <br>
 
