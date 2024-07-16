@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <h4 align="center"> <a href="https://www.kth.se/profile/smehta/">I am a Researcher in Department of Speech Music and Hearing at KTH Royal Institute of Technology! </a></h4> 
 <hr>
 <p>
-🔭 I’m currently working on Speech synthesis with probabilistic generative models <br/> 
+🎯 Currently I am in Seattle, WA as a Research Intern in <a href="https://www.microsoft.com/en-us/research/">Microsoft Research</a>. <br/>
+🔭 I work on Speech synthesis with probabilistic generative models <br/> 
 💬 Ask me about: Python, Deep Learning, Machine Learning and Generative modelling   <br/>
 📫 Reach me or read my blog at: https://shivammehta25.github.io/ <br/>
 💬 Open for collaborations and interesting projects!
