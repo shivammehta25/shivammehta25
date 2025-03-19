@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Shivam Mehta</h1>
 
-<h4 align="center"> <a href="https://www.kth.se/profile/smehta/">I am a Researcher in Department of Speech Music and Hearing at KTH Royal Institute of Technology! </a></h4> 
+<h4 align="center"> <a href="https://www.kth.se/profile/smehta/">I am a Researcher in the Department of Speech Music and Hearing at KTH Royal Institute of Technology! </a></h4> 
 <hr>
 <p>
-🎯 Currently, I am in Menlo Park, CA as a Research Scientist Intern at <a href="https://ai.meta.com/research/">Meta</a>. <br/>
+🎯 Currently, I am back at KTH Royal Insitute of Technology, Stockholm, Sweden. Finalizing my thesis and hopefully defending soon. <br/>
+🎯 In Fall 2024, I was at Menlo Park, CA as a Research Scientist Intern at <a href="https://ai.meta.com/research/">Meta</a>. <br/>
 🎯 Summer 2024 I was in Seattle, WA as a Research Intern at <a href="https://www.microsoft.com/en-us/research/">Microsoft Research</a>. <br/>
 🔭 I work on Speech synthesis with probabilistic generative models <br/> 
 💬 Ask me about: Python, Deep Learning, Machine Learning and Generative modelling   <br/>
